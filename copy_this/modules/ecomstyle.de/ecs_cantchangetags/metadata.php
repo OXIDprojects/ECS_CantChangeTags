@@ -21,8 +21,7 @@ $aModule = array(
     'id'            => 'ecs_cantchangetags',
     'title'         => '<strong style="color:#04B431;">e</strong><strong>ComStyle.de</strong>:  <i>Can&acute;t Change Tags</i>',
     'description'   => array(
-                    'de' => '<i>Tags k&ouml;nnen im Frontend nicht mehr editiert werden.</i>
-                    <br><iframe frameborder="no" width="600px" height="300px" src="https://ssl-account.com/incl.oxidtheme.de/gratis.html"></iframe>',
+                    'de' => '<i>Tags k&ouml;nnen im Frontend nicht mehr editiert werden.</i>',
     ),
     'version'       => '1.0',
     'thumbnail'     => 'ecs.png',
